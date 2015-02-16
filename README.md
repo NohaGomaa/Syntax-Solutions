@@ -18,6 +18,6 @@ Our mission is to work hard to design the applications and services needed for a
 
 | Mirna Benyamine     | 28-2289 |
 
-|      |  |
+|  Marina Samy    | 28-697  |
 
 |      |  |
