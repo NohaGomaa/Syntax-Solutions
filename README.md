@@ -16,7 +16,7 @@ Our mission is to work hard to design the applications and services needed for a
 
 |Seif Mohamed      |28-1660      |
 
-|      |  |
+| Mirna Benyamine     | 28-2289 |
 
 |      |  |
 
