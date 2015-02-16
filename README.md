@@ -1,3 +1,7 @@
+![alt tag](https://cloud.githubusercontent.com/assets/10838011/6214389/cee45686-b600-11e4-9815-a7157eeb141c.png)
+
+
+
 # Syntax-Solutions
 
 Our vision is to be a platform to serve our constantly changing world with the applications and services we provide
