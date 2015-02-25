@@ -9,21 +9,12 @@ Our mission is to work hard to design the applications and services needed for a
 
 
 |Name              | ID          |
-
-|-----------       |:-----------:|
-
+| -----------      |:-----------:|
 |Eric Philippe     |28-614	     | 
-
 |Noha Gomaa        |28-3715      |
-
 |Sarah Maharem     |28-3272      |
-
 |Seif Mohamed      |28-1660      |
-
 |Mirna Benyamine   |28-2289      |
-
 |Marina Samy       |28-697       |
-
 |Mohamed Sherif    |10-5530      |
-
 |Dona Kaid         |28-9359      |
